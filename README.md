@@ -33,4 +33,3 @@ Here are some ideas to get you started:
 
 ##### Connect with me
 ![https://www.linkedin.com/in/alfred-liu-b94b09335/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://codeforces.com/profile/YamamotoRyu](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
