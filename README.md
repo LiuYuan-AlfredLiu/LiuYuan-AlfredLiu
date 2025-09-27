@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![About Me](img/My%20Image.png)
 
-- 🌱 I’m currently learning **Flutter Dart**, **Kotlin** and **Golang**
+- 🌱 I’m currently learning **Flutter Dart**, **Kotlin**, **Java** and **Golang**
 - How to call me: 0821 6263 6753 (WhatsApp Number)
 
 - **My Skills**
