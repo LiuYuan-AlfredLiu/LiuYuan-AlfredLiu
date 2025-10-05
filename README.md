@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ![About Me](img/My%20Image.png)
 
-- 🌱 I’m currently learning **Flutter Dart**, **Kotlin**, **Java** and **Golang**
-
-- #### **About Me**
-Hi I'm Alfred Liusten or you can call me Alfred Liu, and my job is Mobile Development
+- #### **Contact**
+1. Whatsapp: +62 821-6263-6753
+2. LinkIn: https://www.linkedin.com/in/alfred-liusten-b94b09335/
 
 #### **My Skills**
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -40,13 +39,11 @@ Hi I'm Alfred Liusten or you can call me Alfred Liu, and my job is Mobile Develo
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 - #### **Problem Solving Skills**
-1. codewars: https://www.codewars.com/users/Yammamoto%20Ryu
-2. codeforces: https://codeforces.com/profile/YamamotoRyu
 
-- #### **Education**
-Mentari Bangsa/**Sunshine**
-STMIK TIME (**IT**)
+<a href="https://www.codewars.com/users/Yammamoto%20Ryu">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+</a>
 
-- #### **Contact**
-1. Whatsapp: +62 821-6263-6753
-2. LinkIn: https://www.linkedin.com/in/alfred-liusten-b94b09335/
+<a href="https://codeforces.com/profile/YamamotoRyu">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
