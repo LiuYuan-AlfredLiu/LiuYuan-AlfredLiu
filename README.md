@@ -48,5 +48,5 @@ Mentari Bangsa/**Sunshine**
 STMIK TIME (**IT**)
 
 - #### **Contact**
-Whatsapp: +62 821-6263-6753
-LinkIn: https://www.linkedin.com/in/alfred-liusten-b94b09335/
+1. Whatsapp: +62 821-6263-6753
+2. LinkIn: https://www.linkedin.com/in/alfred-liusten-b94b09335/
