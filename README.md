@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 Hi I'm Alfred Liusten or you can call me Alfred Liu, and my job is Mobile Development
 
 #### **My Skills**
-
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -41,8 +40,8 @@ Hi I'm Alfred Liusten or you can call me Alfred Liu, and my job is Mobile Develo
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 - #### **Problem Solving Skills**
-codewars: https://www.codewars.com/users/Yammamoto%20Ryu
-codeforces: https://codeforces.com/profile/YamamotoRyu
+1. codewars: https://www.codewars.com/users/Yammamoto%20Ryu
+2. codeforces: https://codeforces.com/profile/YamamotoRyu
 
 - #### **Education**
 Mentari Bangsa/**Sunshine**
